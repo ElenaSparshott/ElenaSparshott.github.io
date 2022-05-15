@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ElenaSparshott.github.io/static/css/main.8a19ad29.css",
+    "main.js": "/ElenaSparshott.github.io/static/js/main.3827e3c6.js",
+    "static/media/react.png": "/ElenaSparshott.github.io/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/ElenaSparshott.github.io/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/ElenaSparshott.github.io/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/ElenaSparshott.github.io/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/ElenaSparshott.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/ElenaSparshott.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/ElenaSparshott.github.io/index.html",
+    "static/media/favicon.ico": "/ElenaSparshott.github.io/static/media/favicon.e092c554f880b6fe739b.ico",
+    "main.8a19ad29.css.map": "/ElenaSparshott.github.io/static/css/main.8a19ad29.css.map",
+    "main.3827e3c6.js.map": "/ElenaSparshott.github.io/static/js/main.3827e3c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a19ad29.css",
+    "static/js/main.3827e3c6.js"
+  ]
+}
